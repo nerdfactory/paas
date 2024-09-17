@@ -15,6 +15,13 @@ Alows you to
 * host your AI/ML code
 
 
+## Todo
+
+* [ ] Homepage
+* [ ] App deployment
+* [ ] Infrastructure & workers ?
+
+
 ## License
 
 All rights reserved ® Hugo Duksis 
