@@ -4,7 +4,7 @@ One place to take care of your infrastrucure needs.
 
 ## Description
 
-Alows you to 
+Allows you to 
 
 * deploy your code (Serverless)
 * host your data (Postgres)
@@ -18,6 +18,7 @@ Alows you to
 ## Todo
 
 * [ ] Homepage
+* [ ] Pitch Deck
 * [ ] App deployment
 * [ ] Infrastructure & workers ?
 
