@@ -1,4 +1,4 @@
-import { Command, Moon, SunMedium, Terminal } from "lucide-react"
+import { AtSign, ArrowRight, Skull, Command, Moon, Key, SunMedium, Terminal } from "lucide-react"
 
 export type IconKeys = keyof typeof icons
 
@@ -10,6 +10,10 @@ const icons = {
   logo: Terminal,
   sun: SunMedium,
   moon: Moon,
+  arrow: ArrowRight,
+  at: AtSign,
+  key: Key,
+  alert: Skull,
 }
 
 export const Icons: IconsType = icons
